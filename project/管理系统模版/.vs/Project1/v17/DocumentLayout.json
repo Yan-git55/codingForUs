@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\\project\\project2\\Project1\\",
+  "WorkspaceRootPath": "D:\\my_work\\codingForUs\\project\\\u7BA1\u7406\u7CFB\u7EDF\u6A21\u7248\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A637EA2-AF59-45DA-BFD3-610FA3BCF8C1}|Project1.vcxproj|D:\\C\u8BED\u8A00\\project\\project2\\Project1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4A637EA2-AF59-45DA-BFD3-610FA3BCF8C1}|Project1.vcxproj|D:\\my_work\\codingForUs\\project\\\u7BA1\u7406\u7CFB\u7EDF\u6A21\u7248\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A637EA2-AF59-45DA-BFD3-610FA3BCF8C1}|Project1.vcxproj|solutionrelative:\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.c",
-              "DocumentMoniker": "D:\\C\u8BED\u8A00\\project\\project2\\Project1\\\u6E90.c",
+              "DocumentMoniker": "D:\\my_work\\codingForUs\\project\\\u7BA1\u7406\u7CFB\u7EDF\u6A21\u7248\\\u6E90.c",
               "RelativeDocumentMoniker": "\u6E90.c",
-              "ToolTip": "D:\\C\u8BED\u8A00\\project\\project2\\Project1\\\u6E90.c",
+              "ToolTip": "D:\\my_work\\codingForUs\\project\\\u7BA1\u7406\u7CFB\u7EDF\u6A21\u7248\\\u6E90.c",
               "RelativeToolTip": "\u6E90.c",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAEsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-31T13:10:14.152Z",
               "EditorCaption": ""
